@@ -8,7 +8,7 @@ main{
     margin-inline: auto;
     margin-block: 10px;
     margin-inline: 700px;
-    padding-bottom: 200px;
+    padding-bottom: 0px;
 }
 
 .foto{
@@ -46,4 +46,41 @@ p{
 
 .dois{
     margin-top: 20px;
+}
+
+.projeto{
+    border: 2px solid black; 
+    width: 130px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+    padding-top: 5px;
+    display: inline-block;
+    position: ;
+    left: 0px;
+}
+
+.projetoo{
+    border: 2px solid black; 
+    width: 130px;
+    padding-bottom: 100px;
+    padding-left: 1px;
+    padding-top: 5px;
+    display: inline-block;
+    padding-right: 3px;
+    
+}
+
+.projetooo{
+    border: 2px solid black; 
+    width: 130px;
+    padding-bottom: 100px;
+    padding-left: 1px;
+    padding-top: 5px;
+    display: inline-block;
+
+}
+
+footer{
+    border: 1px solid black;
+    margin:  10px 20px 30px 40px;
 }
