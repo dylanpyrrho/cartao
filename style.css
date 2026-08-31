@@ -55,7 +55,6 @@ p{
     padding-left: 0px;
     padding-top: 5px;
     display: inline-block;
-    position: ;
     left: 0px;
 }
 
@@ -67,6 +66,8 @@ p{
     padding-top: 5px;
     display: inline-block;
     padding-right: 3px;
+    margin-left: -20px;
+    margin-top: -5px;
     
 }
 
